@@ -1,8 +1,8 @@
-h1{
+h1 {
   color: red;
 }
 
-.navigation-panel{
+.navigation-panel {
   background-color: red;
   position: sticky; 
   padding: 5px;
