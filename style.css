@@ -3,6 +3,7 @@ h1{
 }
 
 .navigation-panel{
+  background-color: blue;
   position: sticky; 
   padding: 5px;
 }
