@@ -1,14 +1,9 @@
-.tasa-explorer-<uniquifier> {
-  font-family: "TASA Explorer", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
 
 body{
 background-color: #f1f3f5;
 }
 h1 {
+  font-family: sans-serif;
   color: #ff5e00;
 }
 
