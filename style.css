@@ -8,9 +8,12 @@ h1 {
 }
 
 h2{
-  
+  font-family: sans-serif;
+  color: #ff5e00;  
 }
-  
+p{
+  font-family: sans-serif;
+}
 .navigation-panel {
-  background-color: white;
+  background-color: #f1f3f5;
 }
